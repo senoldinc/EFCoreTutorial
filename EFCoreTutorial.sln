@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F7964363-2B76-4940-8497-8B382D873363}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{19CF0AD0-9C6D-463E-869C-3D16FE713A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreTutorial.WebApi", "src\EFCoreTutorial.WebApi\EFCoreTutorial.WebApi.csproj", "{EDC72666-94A1-41B0-A73D-9F1347FA27A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreTutorial.Data", "src\EFCoreTutorial.Data\EFCoreTutorial.Data.csproj", "{479B07AF-40EC-4F23-ADE8-68A7102062EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EDC72666-94A1-41B0-A73D-9F1347FA27A6} = {F7964363-2B76-4940-8497-8B382D873363}
+		{479B07AF-40EC-4F23-ADE8-68A7102062EA} = {F7964363-2B76-4940-8497-8B382D873363}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC72666-94A1-41B0-A73D-9F1347FA27A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC72666-94A1-41B0-A73D-9F1347FA27A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC72666-94A1-41B0-A73D-9F1347FA27A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC72666-94A1-41B0-A73D-9F1347FA27A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479B07AF-40EC-4F23-ADE8-68A7102062EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479B07AF-40EC-4F23-ADE8-68A7102062EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479B07AF-40EC-4F23-ADE8-68A7102062EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479B07AF-40EC-4F23-ADE8-68A7102062EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

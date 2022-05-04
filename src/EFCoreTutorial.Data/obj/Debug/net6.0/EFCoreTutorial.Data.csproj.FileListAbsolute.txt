@@ -1,0 +1,14 @@
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/bin/Debug/net6.0/EFCoreTutorial.Data.deps.json
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/bin/Debug/net6.0/EFCoreTutorial.Data.runtimeconfig.json
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/bin/Debug/net6.0/EFCoreTutorial.Data.dll
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/bin/Debug/net6.0/EFCoreTutorial.Data.pdb
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/obj/Debug/net6.0/EFCoreTutorial.Data.csproj.AssemblyReference.cache
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/obj/Debug/net6.0/EFCoreTutorial.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/obj/Debug/net6.0/EFCoreTutorial.Data.AssemblyInfoInputs.cache
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/obj/Debug/net6.0/EFCoreTutorial.Data.AssemblyInfo.cs
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/obj/Debug/net6.0/EFCoreTutorial.Data.csproj.CoreCompileInputs.cache
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/obj/Debug/net6.0/EFCoreTutorial.Data.dll
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/obj/Debug/net6.0/refint/EFCoreTutorial.Data.dll
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/obj/Debug/net6.0/EFCoreTutorial.Data.pdb
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/obj/Debug/net6.0/EFCoreTutorial.Data.genruntimeconfig.cache
+/Users/senoldinc/Projects/EFCoreTutorial/src/EFCoreTutorial.Data/obj/Debug/net6.0/ref/EFCoreTutorial.Data.dll
